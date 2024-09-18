@@ -1,4 +1,4 @@
-**__QA_Testing_Mastery__**
+**QA_Testing_Mastery**
 
 QA_Testing_Mastery is a comprehensive project designed to master Software Quality Assurance (SQA) techniques, with a strong emphasis on manual testing. This project simulates real-world testing scenarios to ensure software reliability, performance, and user satisfaction.
 
@@ -22,21 +22,6 @@ The purpose of this project is to demonstrate hands-on expertise in the manual t
 
 **Project Structure**
 
-QA_Testing_Mastery/
-│
-├── Test_Cases/                   # Detailed test cases for different modules
-│   └── Login_Module_TestCases.xlsx
-│   └── Payment_Module_TestCases.xlsx
-│
-├── Bug_Reports/                  # Comprehensive bug reports with attachments
-│   └── Login_Button_Bug_Report.pdf
-│   └── Payment_Gateway_Bug_Report.pdf
-│
-├── Performance_Reports/          # Performance evaluation reports
-│   └── API_Performance_Report_Postman.pdf
-│
-├── README.md                     # Project overview and documentation
-Test Process
 Test Case Creation:
 The test cases are written based on the functional requirements of the application, focusing on critical modules like login and payment systems.
 
@@ -63,12 +48,9 @@ Resolution: The issue was replicated across multiple devices, and the developmen
 Performance Evaluation
 Incorporates API performance testing using Postman. APIs were tested for speed, data consistency, and error handling.
 
-How to Use
+__How to Use__
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/username/QA_Testing_Mastery.git
 Access the Test Cases folder for detailed manual test cases.
 
 Review the Bug Reports for documented issues and steps to reproduce.
