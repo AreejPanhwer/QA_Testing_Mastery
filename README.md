@@ -22,23 +22,28 @@ The purpose of this project is to demonstrate hands-on expertise in the manual t
 
 **Project Structure**
 
-Test Case Creation:
+1_Test Case Creation:
+
 The test cases are written based on the functional requirements of the application, focusing on critical modules like login and payment systems.
 
-Test Execution:
+2_Test Execution:
+
 The tests are executed manually, with detailed test steps, expected results, and actual outcomes documented.
 
-Bug Reporting:
+3_Bug Reporting:
+
 All identified bugs are logged into Jira, with severity and priority assigned. Reports include reproducibility steps, expected vs. actual results, and relevant attachments such as screenshots.
 
-API Testing:
+4_API Testing:
 Postman is used for API testing to validate response times, data accuracy, and endpoint behavior under different conditions.
 
-Bug Tracking Sample
+**Bug Tracking Sample**
+
 Issue: Login button unresponsive on mobile
 Severity: High
 Priority: Urgent
-Steps to Reproduce:
+
+**Steps to Reproduce:**
 
 Access the application on a mobile device.
 Enter valid credentials.
@@ -47,21 +52,3 @@ Resolution: The issue was replicated across multiple devices, and the developmen
 
 Performance Evaluation
 Incorporates API performance testing using Postman. APIs were tested for speed, data consistency, and error handling.
-
-__How to Use__
-Clone the repository:
-
-Access the Test Cases folder for detailed manual test cases.
-
-Review the Bug Reports for documented issues and steps to reproduce.
-
-Open Postman and import the provided collection to explore API testing results.
-
-Contributions
-Feel free to contribute by:
-
-Adding additional test cases.
-Reporting bugs or performance issues.
-Suggesting improvements to the test process.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
