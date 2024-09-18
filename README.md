@@ -1,4 +1,4 @@
-**QA_Testing_Mastery**
+**__QA_Testing_Mastery__**
 
 QA_Testing_Mastery is a comprehensive project designed to master Software Quality Assurance (SQA) techniques, with a strong emphasis on manual testing. This project simulates real-world testing scenarios to ensure software reliability, performance, and user satisfaction.
 
